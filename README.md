@@ -1,5 +1,5 @@
 # S-ESX-V1F-kash
- Ok long of the short is this is a update to S-ESX-V1-FINAL orginal can be found here https://github.com/computergeek3k/S-ESX-V1F-kash
+ Ok long of the short is this is a update to S-ESX-V1-FINAL
  
  Now for the fun stuff:
  
